@@ -1,10 +1,11 @@
 import React from "react";
+import { InlineStyle } from "./components/InlineStyle";
 import "./style.css";
 
-export default function App() {
+export const App = () => {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <InlineStyle />
     </div>
   );
-}
+};
