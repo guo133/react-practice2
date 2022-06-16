@@ -1,7 +1,7 @@
 export const InlineStyle = () => {
   const containerStyle = {
     border: "solid 2px #392eff",
-    borderRadius: "20ppx",
+    borderRadius: "20px",
     padding: "8px",
     margin: "8px",
     display: "flex",
